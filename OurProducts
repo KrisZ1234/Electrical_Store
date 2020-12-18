@@ -1,0 +1,439 @@
+ITEM_LIST
+{
+    ITEM
+    {
+       MODEL_TYPE LCD
+       CODE qwf967
+       MODEL WatchMagic22
+       MODEL_YEAR 2018
+       MANUFACTURER LG
+       PRICE 400
+       SCREEN_RATIO 30
+       RESOLUTION 2048
+       PORTS "2 HDMI / 1 Display"
+       PIECES 3
+    }
+    ITEM
+    {
+       MODEL_TYPE LCD
+       CODE jfh396
+       MODEL GreatTV55
+       MODEL_YEAR 2018
+       MANUFACTURER LG
+       PRICE 500
+       SCREEN_RATIO 40
+       RESOLUTION 2048
+       PORTS "2 HDMI / 1 Display"
+       PIECES 2
+    }
+    ITEM
+    {
+       MODEL_TYPE LCD
+       CODE mnb621
+       MODEL TheView2000
+       MODEL_YEAR 2018
+       MANUFACTURER LG
+       PRICE 600
+       SCREEN_RATIO 30
+       RESOLUTION 2048
+       PORTS "2 HDMI / 1 Display"
+       PIECES 0
+    }
+    ITEM
+    {
+       MODEL_TYPE LED
+       CODE qaz009
+       MODEL TheBestLed
+       MODEL_YEAR 2020
+       MANUFACTURER Sony
+       PRICE 700
+       SCREEN_RATIO 40
+       RESOLUTION 2048
+       PORTS "2 HDMI / 1 Display"
+       PIECES 3
+    }
+    ITEM
+    {
+       MODEL_TYPE LED
+       CODE bbh887
+       MODEL Lediathan1000
+       MODEL_YEAR 2020
+       MANUFACTURER Sony
+       PRICE 780
+       SCREEN_RATIO 70
+       RESOLUTION 2048
+       PORTS "2 HDMI / 1 Display"
+       PIECES 3
+    }
+    ITEM
+    {
+       MODEL_TYPE LED
+       CODE bwc445
+       MODEL Ledian250
+       MODEL_YEAR 2020
+       MANUFACTURER Sony
+       PRICE 720
+       SCREEN_RATIO 40
+       RESOLUTION 2048
+       PORTS "2 HDMI / 1 Display"
+       PIECES 0
+    }
+    ITEM
+    {
+       MODEL_TYPE Plasma
+       CODE loi909
+       MODEL PlasmaThio800
+       MODEL_YEAR 2015
+       MANUFACTURER Panasonic
+       PRICE 330
+       SCREEN_RATIO 27
+       RESOLUTION 2048
+       PORTS "2 HDMI / 1 Display"
+       PIECES 3
+    }
+    ITEM
+    {
+       MODEL_TYPE Plasma
+       CODE rtr223
+       MODEL PlasmaTikos2000
+       MODEL_YEAR 2015
+       MANUFACTURER Panasonic
+       PRICE 440
+       SCREEN_RATIO 30
+       RESOLUTION 2048
+       PORTS "2 HDMI / 1 Display"
+       PIECES 4
+    }
+    ITEM
+    {
+       MODEL_TYPE Plasma
+       CODE lap069
+       MODEL Kalo56784
+       MODEL_YEAR 2016
+       MANUFACTURER Panasonic
+       PRICE 470
+       SCREEN_RATIO 30
+       RESOLUTION 2048
+       PORTS "2 HDMI / 1 Display"
+       PIECES 0
+    }
+    ITEM
+    {
+       MODEL_TYPE DSLR
+       CODE qbj510
+       MODEL dslr-1000
+       MODEL_YEAR 2015
+       MANUFACTURER Canon
+       PRICE 300
+       MEGAPIXELS 12000
+       OPTICAL_ZOOM 15
+       DIGITAL_ZOOM 10
+       CAMERA_SCREEN 5
+       PIECES 4
+    }
+    ITEM
+    {
+       MODEL_TYPE DSLR
+       CODE dfg467
+       MODEL dslr-2000
+       MODEL_YEAR 2016
+       MANUFACTURER Canon
+       PRICE 360
+       MEGAPIXELS 12000
+       OPTICAL_ZOOM 17
+       DIGITAL_ZOOM 11
+       CAMERA_SCREEN 6
+       PIECES 2
+    }
+    ITEM
+    {
+       MODEL_TYPE DSLR
+       CODE wsx243
+       MODEL dslr-3000
+       MODEL_YEAR 2018
+       MANUFACTURER Canon
+       PRICE 420
+       MEGAPIXELS 14000
+       OPTICAL_ZOOM 20
+       DIGITAL_ZOOM 11
+       CAMERA_SCREEN 7
+       PIECES 0
+    }
+    ITEM
+    {
+       MODEL_TYPE Compact
+       CODE mla012
+       MODEL compact-1000
+       MODEL_YEAR 2015
+       MANUFACTURER Nikon
+       PRICE 300
+       MEGAPIXELS 12000
+       OPTICAL_ZOOM 15
+       DIGITAL_ZOOM 10
+       CAMERA_SCREEN 5
+       PIECES 4
+    }
+    ITEM
+    {
+       MODEL_TYPE Compact
+       CODE mnb876
+       MODEL compact-2000
+       MODEL_YEAR 2015
+       MANUFACTURER Nikon
+       PRICE 400
+       MEGAPIXELS 12000
+       OPTICAL_ZOOM 15
+       DIGITAL_ZOOM 13
+       CAMERA_SCREEN 5
+       PIECES 0
+    }
+    ITEM
+    {
+       MODEL_TYPE Action Camera
+       CODE jhg234
+       MODEL ActionMan-1000
+       MODEL_YEAR 2018
+       MANUFACTURER Fujifilm
+       PRICE 300
+       MEGAPIXELS 9000
+       OPTICAL_ZOOM 15
+       DIGITAL_ZOOM 10
+       CAMERA_SCREEN 2
+       PIECES 4
+    }
+    ITEM
+    {
+       MODEL_TYPE Action Camera
+       CODE poi980
+       MODEL ActionMan-2000
+       MODEL_YEAR 2019
+       MANUFACTURER Fujifilm
+       PRICE 420
+       MEGAPIXELS 9500
+       OPTICAL_ZOOM 20
+       DIGITAL_ZOOM 10
+       CAMERA_SCREEN 2
+       PIECES 0
+    }
+    ITEM
+    {
+       MODEL_TYPE DVD
+       CODE zas430
+       MODEL dvd2000
+       MODEL_YEAR 2015
+       MANUFACTURER Sony
+       PRICE 180
+       VIDEO_RESOLUTION 2048
+       FORMAT mp4
+       PIECES 3
+    }
+    ITEM
+    {
+       MODEL_TYPE DVD
+       CODE gfg909
+       MODEL dvd1000
+       MODEL_YEAR 2013
+       MANUFACTURER Sony
+       PRICE 200
+       VIDEO_RESOLUTION 2048
+       FORMAT mp4
+       PIECES 0
+    }
+    ITEM
+    {
+       MODEL_TYPE Bluray
+       CODE gfv656
+       MODEL BluWorld500
+       MODEL_YEAR 2015
+       MANUFACTURER Sony
+       PRICE 345
+       VIDEO_RESOLUTION 2048
+       FORMAT mp4
+       PIECES 3
+    }
+    ITEM
+    {
+       MODEL_TYPE Bluray
+       CODE hgz500
+       MODEL BluestWorld100
+       MODEL_YEAR 2015
+       MANUFACTURER Sony
+       PRICE 567
+       VIDEO_RESOLUTION 2048
+       FORMAT mp4
+       PIECES 0
+    }
+    ITEM
+    {
+       MODEL_TYPE PS3
+       CODE yyu763
+       MODEL ps3_slim
+       MODEL_YEAR 2011
+       MANUFACTURER Sony
+       PRICE 100
+       CPU "3.2 GHz"
+       GRAPHICS "NVIDIA G70"
+       SOUND "HDMI & Digital outpout"
+       DISK_CAPACITY 256
+       PIECES 6
+    }
+    ITEM
+    {
+       MODEL_TYPE PS4
+       CODE nbv522
+       MODEL ps4_slim
+       MODEL_YEAR 2013
+       MANUFACTURER Sony
+       PRICE 220
+       CPU "2.13 GHz"
+       GRAPHICS "Custom AMD"
+       SOUND "HDMI & Digital outpout"
+       DISK_CAPACITY 8000
+       PIECES 6
+    }
+    ITEM
+    {
+       MODEL_TYPE XBOX
+       CODE nji897
+       MODEL xBox360
+       MODEL_YEAR 2005
+       MANUFACTURER Flextronics
+       PRICE 100
+       CPU "3.2 GHz"
+       GRAPHICS "AMD Xenos"
+       SOUND "HDMI & Digital outpout"
+       DISK_CAPACITY 512
+       PIECES 6
+    }
+    ITEM
+    {
+       MODEL_TYPE One Door
+       CODE mhe343
+       MODEL MegaFrost2000
+       MODEL_YEAR 2017
+       MANUFACTURER Icemakers Inc
+       PRICE 700
+       ENERGY_CLASS "A++"
+       MAIN_CAPACITY 1598
+       FROST_CAPACITY 298
+       PIECES 6
+    }
+    ITEM
+    {
+       MODEL_TYPE One Door
+       CODE nbv555
+       MODEL FrostBite1000
+       MODEL_YEAR 2018
+       MANUFACTURER Icemakers Inc
+       PRICE 790
+       ENERGY_CLASS "A++"
+       MAIN_CAPACITY 1598
+       FROST_CAPACITY 298
+       PIECES 0
+    }
+    ITEM
+    {
+       MODEL_TYPE Two Door
+       CODE fgh234
+       MODEL FreezeMe500
+       MODEL_YEAR 2019
+       MANUFACTURER ColdCompany
+       PRICE 398
+       ENERGY_CLASS "A++"
+       MAIN_CAPACITY 1289
+       FROST_CAPACITY 208
+       PIECES 5
+    }
+    ITEM
+    {
+       MODEL_TYPE Two Door
+       CODE hhg667
+       MODEL SomethingCold.v2
+       MODEL_YEAR 2019
+       MANUFACTURER ColdCompany
+       PRICE 498
+       ENERGY_CLASS "A++"
+       MAIN_CAPACITY 1389
+       FROST_CAPACITY 208
+       PIECES 0
+    }
+    ITEM
+    {
+       MODEL_TYPE Closet Style
+       CODE nnb776
+       MODEL NotHot2000
+       MODEL_YEAR 2019
+       MANUFACTURER ColdenCompany
+       PRICE 1000
+       ENERGY_CLASS "A++"
+       MAIN_CAPACITY 2089
+       FROST_CAPACITY 478
+       PIECES 5
+    }
+    ITEM
+    {
+       MODEL_TYPE Closet Style
+       CODE fgr889
+       MODEL IamAfridge.v2000
+       MODEL_YEAR 2020
+       MANUFACTURER ColdenCompany
+       PRICE 1500
+       ENERGY_CLASS "A++"
+       MAIN_CAPACITY 2089
+       FROST_CAPACITY 478
+       PIECES 0
+    }
+    ITEM
+    {
+       MODEL_TYPE Washing Machine
+       CODE jjj541
+       MODEL AllClean200
+       MODEL_YEAR 2015
+       MANUFACTURER MachineHead
+       PRICE 499
+       ENERGY_CLASS "A++"
+       CAPACITY 1000
+       SHIFT 5
+       PIECES 5
+    }
+    ITEM
+    {
+       MODEL_TYPE Washing Machine
+       CODE gty650
+       MODEL CleanPlates&more2000
+       MODEL_YEAR 2015
+       MANUFACTURER MachineHead
+       PRICE 599
+       ENERGY_CLASS "A++"
+       CAPACITY 1200
+       SHIFT 5
+       PIECES 2
+    }
+    ITEM
+    {
+       MODEL_TYPE Washing Machine
+       CODE bbg900
+       MODEL Notdirty1000
+       MODEL_YEAR 2015
+       MANUFACTURER MachineHead
+       PRICE 399
+       ENERGY_CLASS "A+"
+       CAPACITY 1000
+       SHIFT 5
+       PIECES 0
+    }
+        ITEM
+    {
+       MODEL_TYPE Action Camera
+       CODE piu736
+       MODEL MaxSteel3
+       MODEL_YEAR 2017
+       MANUFACTURER Fujifilm
+       PRICE 480
+       MEGAPIXELS 9700
+       OPTICAL_ZOOM 22
+       DIGITAL_ZOOM 10
+       CAMERA_SCREEN 2
+       PIECES 2
+    }
+ }
