@@ -1,5 +1,5 @@
 # Electrical_Store
-academic project 
+academic project for course: JAVA Programming Language
 
 Ένα κατάστημα ηλεκτρικών συσκευών πουλάει τρεις βασικές κατηγορίες συσκευών: εικόνα & ήχος,
 gaming και οικιακές συσκευές. Στην κατηγορία εικόνα & ήχος περιλαμβάνονται τηλεοράσεις, blue
